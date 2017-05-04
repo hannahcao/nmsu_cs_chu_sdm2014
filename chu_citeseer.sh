@@ -1,0 +1,1 @@
+ java -Xmx1G -ea -cp infdetection.jar nmsu.cs.MainInfDetection -chainNum 2 -graphfile  ./data/citeseerx_data/cite.txt -paperfolder ./data/citeseerx_data/tweet/ -aspectfile ./data/citeseerx_data/aspect.txt -samplerId citeseer20150303 -znum 10  -burnin 100 -duplicate yes -model oaim -sampleMethod normal 
