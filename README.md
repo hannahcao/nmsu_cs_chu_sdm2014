@@ -22,12 +22,12 @@ Influence Relationships from Graphs, SDM2014".
          -alphaGamma N : Dirichlet distribution parameter alphaGamma for object interaction mixture $\alpha_gamma$ (Default: 1.0)
 
          -alphaLambdaInherit N : Dirichlet distribution parameter inherit percentage $\alpha_{\lambda_1}$ (Default: 0.5)
-
-         -alphaLambdaInnov N : Dirichlet distribution parameter innovative percentage $\alpha_{\lambda_0}$ (Default: 0.5)
+	 
+		-alphaLambdaInnov N : Dirichlet distribution parameter innovative percentage $\alpha_{\lambda_0}$ (Default: 0.5)
 
          -alphaPhi N : Dirichlet distribution parameter alphaPhi for latent state variables $\alpha_phi$ (Default: 0.01)
 	 
-	 -alphaPsi N : Dirichlet distribution parameter alphaPsi for latent aspect variable $\alpha_psi$ (Default: 0.1)
+		 -alphaPsi N : Dirichlet distribution parameter alphaPsi for latent aspect variable $\alpha_psi$ (Default: 0.1)
 
          -alphaTheta N : Dirichlet distribution parameter alphaTheta $\alpha_theta$ (Default: 0.1)
 
