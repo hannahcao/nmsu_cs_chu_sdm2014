@@ -67,7 +67,7 @@ Influence Relationships from Graphs, SDM2014".
     java -cp infdetection.jar nmsu.cs.MainInfDetection -chainNum 2 -graphfile  ./data/twitter500/cite.txt -paperfolder ./data/twitter500/tweet/ -aspectfile ./data/twitter500/aspect.txt -samplerId twitter_500_oaim_z_10 -znum 10  -burnin 100 -duplicate yes -model oaim -sampleMethod normal
 
 3. Dataset
-   In this package we share the two datasets we used in our paper, Citeseer and Twitter. Link: TODO
+   In this package we share the two datasets we used in our paper, Citeseer and Twitter. Link: ask for download link.
 
 3.1  CiteMisc (data/citeseerx_data)
 
@@ -90,7 +90,7 @@ Influence Relationships from Graphs, SDM2014".
    Graph edge file: cite.txt
    User profile json format files: tweet/uid.json, uid means the user id in this dataset
    
-3.3  General data format
+3.3  Raw data format
 
      It is easy to run OAIM or LAIM on your own dataset.
 
